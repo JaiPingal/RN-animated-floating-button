@@ -17,6 +17,7 @@ yarn add rn-animated-floating-button
 ```js
 import AnimatedFloatingButton from 'rn-animated-floating-button';
 
+
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import AnimatedFloatingButton from 'rn-animated-floating-button';
