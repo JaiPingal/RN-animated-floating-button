@@ -1,7 +1,7 @@
 {
   "name": "rn-animated-floating-button",
   "version": "0.1.0",
-  "description": "This is a test package",
+  "description": "This is a React Native package that provides a customizable animated floating button component. Easily integrate sleek floating action buttons into your app with smooth animations and customizable styles. Simplify user interactions and enhance the user experience with this lightweight and intuitive component.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -161,5 +161,12 @@
     "name": "RNRnAnimatedFloatingButtonSpec",
     "type": "modules",
     "jsSrcsDir": "src"
+  },
+  "dependencies": {
+    "rn-animated-floating-button": "/home/externlabs/NPM_PACKAGES/rn-animated-floating-button"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }
